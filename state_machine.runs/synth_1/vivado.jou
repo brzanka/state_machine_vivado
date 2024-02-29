@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Thu Sep 14 09:18:32 2023
+# Process ID: 15176
+# Current directory: C:/Users/praktykant2/workspace_vivado/state_machine/state_machine.runs/synth_1
+# Command line: vivado.exe -log thermo.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source thermo.tcl
+# Log file: C:/Users/praktykant2/workspace_vivado/state_machine/state_machine.runs/synth_1/thermo.vds
+# Journal file: C:/Users/praktykant2/workspace_vivado/state_machine/state_machine.runs/synth_1\vivado.jou
+# Running On: 1991PC1, OS: Windows, CPU Frequency: 3408 MHz, CPU Physical cores: 4, Host memory: 34283 MB
+#-----------------------------------------------------------
+source thermo.tcl -notrace
